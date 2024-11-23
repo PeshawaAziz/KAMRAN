@@ -1,4 +1,4 @@
-# comrunc
+# KAMRAN: comrunc
 A very simple bash script to compile and run C files for gcc compiler
 
 Note: I use Git Bash for Windows so the instructions might differ from Linux and Bash environment.
